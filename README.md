@@ -16,7 +16,7 @@ Blocks will indicate the span of any given task or activity.  They will be color
  https://hibble32985.github.io/The_Divine_Bovine_Vacherin/
 
 **<u> REPOSITORY URL: <u>**
-https://github.com/Hibble32985/The_Divine_Bovine_Vacherin/tree/main
+https://github.com/Hibble32985/The_Divine_Bovine_Vacherin_2
 
 
 **<u>animated image of work scheduler<u>**:
