@@ -13,7 +13,7 @@ The planner must have specific characteristics in order to be properly functiona
 Blocks will indicate the span of any given task or activity.  They will be color-coded to define whether an entry occurred in the past, is in the present or meant for future consideration.  Upon selecting a time block by clicking on it an entry can be done immediatley and easily without having to scroll or move to another section.  In addition, following this action, an entry can be saved to indicate the time blocked by clicking on a "save" button which will retain the entry in local storage.  Each time the calendar planner site is refreshed and re-rendered, the saved event will remain and be accessible.
 
 **<u> DEPLOYMENT URL: <u>**
- https://hibble32985.github.io/The_Divine_Bovine_Vacherin/
+ [https://hibble32985.github.io/The_Divine_Bovine_Vacherin_2/]
 
 **<u> REPOSITORY URL: <u>**
 https://github.com/Hibble32985/The_Divine_Bovine_Vacherin_2
