@@ -176,4 +176,3 @@ $('.col-10').on('blur', 'textarea', function () {
 
 // to load tasks on every refresh
 loadTask();
-
